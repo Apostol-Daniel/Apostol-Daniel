@@ -1,6 +1,6 @@
 # Whoami
 
-My name is Daniel and I am a Programming student by Howest in Brugge. I momentarily work as a full-time operator and shift boss in a factory.<br>
+My name is Daniel and I am a Programming student at Howest in Brugge. I momentarily work as a full-time operator and shift boss in a factory.<br>
 IT has always been one of my greatest interests, and I am always learning and expanding my skills, for software developing to networking and cybersecurity.
 
 # Abilities
